@@ -1445,3 +1445,40 @@ removido do cânon.
 >
 > **AMARYAPU** não é nome próprio: é substantivo comum em guarani — *amã*, chuva; *ryapu*,
 > estrondo — **Montoya, 1639.**
+
+---
+
+## A tríade, e o quarto termo
+
+**`[DECLARADO]`** · **`AM8`** — **água, semente, cultivo.** E **`AM10`** — **a lei da
+semeadura.**
+
+| | |
+|---|---|
+| **ÁGUA** | **o meio que não impõe forma** — e, por não ter forma própria, **registra o terreno** |
+| **SEMENTE** | **entrada distinguível, com a procedência presa** |
+| **CULTIVO** | **o custo sustentado de examinar** |
+| ## **COLHEITA** | ## **a saída — e ela carrega a procedência da entrada** |
+
+> # **`[CÁLCULO]`** **E é por isto que este repositório se chama `cultivada` e não `construída`:**
+>
+> ## **Construir é montar peças que não mudam. **Cultivar é agir sobre coisa viva, que responde — e responde conforme o que foi plantado.**
+>
+> ## **`[CÁLCULO]`** **«Dá fruto de acordo com o que se planta» é o oposto exato da fusão de caminhos:** numa fusão **a saída não diz qual era a entrada**; numa semeadura **o fruto nomeia a semente.**
+> # **É a condição de reversibilidade, dita em agricultura — e por isso «não falha»: não é promessa moral, é que trigo não dá cevada.**
+
+**`[CÁLCULO]`** · E **uma semente guardada e não plantada é `M2`**: **informação
+preservada e não acionada.**
+
+> ## **Cultivar é agir sobre informação já preservada — e é a resposta à classe inerte.**
+
+**`[FATO]`** · E a agricultura está medida três vezes neste acervo: **o rizóbio de
+Döbereiner** (nitrogênio), **a micorriza** (fósforo, há ~450 Ma), e **a reação-difusão de
+Turing**, confirmada no `Pomacanthus` em 1995.
+
+> ## **`[CÁLCULO]`** **Três parceiros na raiz, e nenhum é dono dela: a bactéria traz nitrogênio, o fungo traz fósforo, e quem cultiva traz a atenção.**
+> # **Três coisas que a planta não faz sozinha.**
+
+> ## **`[REGRA]`** **E o limite:** a lei da semeadura vale aqui **como estrutura de procedência**, e **não** como garantia de que o bem feito retorna a quem o fez. **Essa é outra afirmação, e não se demonstra aqui.**
+
+**`CC BY-SA`** · receita zero · **AMARYAPU**
